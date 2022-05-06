@@ -57,7 +57,7 @@ let str = `
 ° ➬🔊  _ara ara_
 ° ➬🔊  _te quiero bot_
 
-❗LOS  SIGUIENTE  COMANDOS SON NUEVOS REPORTAR POR SI ALGUNO NO SIRVE EN #report
+hola xd
 ° ➬🔊  _Bien pesando woody_
 ° ➬🔊  _Fino señores_
 ° ➬🔊  _Entrada épica_
@@ -97,7 +97,7 @@ let str = `
 ° ➬🔊 _Mi compa el manco_
 ° ➬🔊 _Ya basta jovenes_
 ° ➬🔊 _Deja de llorar maldita puta_
-*_「 💚A̶G̶R̶O̶M̶O̶S̶ S̶P̶-̶B̶O̶T̶💚  」_*`.trim()
+*_「 💚SAPITO💚  」_*`.trim()
 let mentionedJid = [who]
 conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
 }}
