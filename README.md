@@ -24,7 +24,7 @@
 
 **😼💚NUMERO DEL  PROPIETARIO**
 
-<a href="http://wa.me/t95983186566" target="blank"><img src="https://img.shields.io/badge/AGROMOS_SP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/t595983186566" target="blank"><img src="https://img.shields.io/badge/AGROMOS_SP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 
