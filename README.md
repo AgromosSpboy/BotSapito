@@ -8,7 +8,7 @@
 
 
 ### `💚Si necesitas ayuda mandame mensaje sobre la instalación💚`
-<a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 ### `Unete a los grupos oficales para conocer novedades del Bot`
 **🔰GRUPO1 DEL BOT🔰**
 
@@ -24,7 +24,7 @@
 
 **😼💚NUMERO DEL  PROPIETARIO**
 
-<a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/AGROMOS_SP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/t95983186566" target="blank"><img src="https://img.shields.io/badge/AGROMOS_SP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 
