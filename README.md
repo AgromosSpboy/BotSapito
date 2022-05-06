@@ -1,7 +1,7 @@
 <P align="center">
 <img src="https://i.gifer.com/origin/84/84b7d7e62befb51f831bc0ed938c8742.gif" width="29px"> Dame una estrellita porfa o si no eres fan de BTS<img src="https://thumbs.gfycat.com/AdolescentAgileCoqui-size_restricted.gif" width="29px">
 
-**💚Hola bienvenido al repositorio del bot agromos sp💚 me puedes ayudardándole en la estrellita gracias💚👻_**
+**💚Hola bienvenido al repositorio de Sapito Bot 💚 me puedes ayudardándole en la estrellita gracias💚👻_**
 
 <div align="center">
 <img src="https://i.ytimg.com/vi/nkhVzxXnuSQ/maxresdefault.jpg" alt="agromosSpbot" width="500" />
@@ -91,9 +91,9 @@ excesivamente lento (depende del WhatsApp igual)
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 
 
-[![AGROMOS SP](https://github.com/Agromos0/AgromosBotV2.png?size=100)](https://github.com/Agromos0/AgromosBotV2)
+[![BotSapito]https://github.com/AgromosSpboy/BotSapitopng?size=100)]https://github.com/AgromosSpboy/BotSapito/SapitoBot)
 ```bash
-`Agromos sp - Bot ___ By agromos` 
+`Sapito Bot - Bot ___ Sapito` 
 ```
 ###💚AGREDIMIEMTOS
 
