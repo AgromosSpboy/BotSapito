@@ -5,8 +5,8 @@ conn.send3Button(m.chat, `
 *ミ💚 Hola estimado usuario 💚彡*
 
 *ミ😈 Estado del bot 😈彡*
-*=> Bot activo para tus servicios😈🔥*
-*=> Bot  para cualquier uso😹💚*
-`.trim(), 'AGROMOS SP - Bot', '🔵 MENÚ 🔵', `#menu`, '🔴 MENÚ NUEVO🔴', `#menunuevo`, '🟡 MENÚ AUDIOS 🟡', `#menuaudios`, m, false, { contextInfo: { mentionedJid }})}
+*=> Bot activo✅*
+*=> Bot  uso público✅*
+`.trim(), 'Sapito - Bot', '🔵 MENÚ 🔵', `#menu`, '🔴 MENÚ NUEVO🔴', `#menunuevo`, '🟡 MENÚ AUDIOS 🟡', `#menuaudios`, m, false, { contextInfo: { mentionedJid }})}
 handler.command = /^(estado|status|estate|state|stado|stats)$/i
 module.exports = handler
