@@ -11,20 +11,20 @@ Contraseña:BotAgromos2001
 
 *Data*
 Fecha de cuenta agregada:24/03/22
-Vencimiento:2 días restantes 
+Vencimiento: 0 días restantes expirado 🚫
 ═══════════════
 *🙀💚correo:cupsisadri@vusra.com
 *contra:Agromos19
  
 *Data*
 Fecha de cuenta agregada:05/04/22
-Vencimiento:12 días restantes 
+Vencimiento:0días restantes expirado 🚫
 
 Pronto  nuevas cuentas aparecerán aquí😼💚
 ╰═════• 💚⚡💚 •═════╯
 `.trim() 
 //¡GRACIAS!
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '💚agromosSP', 'status@broadcast')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '💚Sapito ', 'status@broadcast')
 }
 handler.command = /^(cuentasanime|CUENTASANIME|VerAnimeGratis|Crunchyroll|veranime)$/i
 
